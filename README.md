@@ -3,8 +3,8 @@ Fique a vontade para ver meus projetos.👋👩🏻‍💻
 
 -  👩🏻‍🎓Estudante de Analise de desenvolvimento de sistema
 -  👩🏻‍🎓Estudando na Fiap/Alura
--  🖥️Dsenvolvendo projetos..
--  
+-  🖥️Desenvolvendo projetos..
+  
 ## Já aprendi:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40"/>
@@ -22,17 +22,4 @@ Fique a vontade para ver meus projetos.👋👩🏻‍💻
 <img src="imagem.img/avatar.png">
 
 ![Snake animation](https://github.com/seu-usuário-aqui/Camilaasampaio/blob/output/github-contribution-grid-snake.svg)
-          
 
-    
-          
-          
-                    
-
-        
-        
-           
-           
-          
-            
-          
