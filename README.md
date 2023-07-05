@@ -21,5 +21,5 @@ Fique a vontade para ver meus projetos.👋👩🏻‍💻
 
 <img src="imagem.img/avatar.png">
 
-![Snake animation](https://github.com/seu-usuário-aqui/Camilaasampaio/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Camilaasampaio/Camilaasampaio/blob/output/github-contribution-grid-snake.svg)
 
