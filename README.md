@@ -7,8 +7,8 @@ Fique a vontade para ver meus projetos.👋👩🏻‍💻
   
   <div>
 <a href="https://github.com/Camilasaampaio">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilaasampaio&layout=compact&langs_count=7&theme=dracula" width="4200"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Camilaasampaio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="450"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilaasampaio&layout=compact&langs_count=7&theme=dracula" width="400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Camilaasampaio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="400"/>
 </div>
 
 ## Já aprendi:
