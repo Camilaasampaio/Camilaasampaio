@@ -2,7 +2,8 @@
 Fique a vontade para ver meus projetos.👋👩🏻‍💻
 
 -  👩🏻‍🎓Estudante de Analise de desenvolvimento de sistema
--  👩🏻‍🎓Estudando na Fiap/Alura
+-  👩🏻‍🎓Estudante de Design UX/UI
+-  👩🏻‍🎓Estudando na Fiap/EBAC
 -  🖥️Desenvolvendo projetos..
   
   <div>
