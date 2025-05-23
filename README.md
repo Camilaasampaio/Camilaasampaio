@@ -1,9 +1,8 @@
 ### Olá, meu nome é Camila e seja bem vindo ao meu perfil
 Fique a vontade para ver meus projetos.👋👩🏻‍💻
 
--  👩🏻‍🎓Estudante de Analise de desenvolvimento de sistema
--  👩🏻‍🎓Estudante de Design UX/UI
--  👩🏻‍🎓Estudando na Fiap/EBAC
+-  👩🏻‍🎓Graduada em Analise de desenvolvimento de sistema
+-  👩🏻‍🎓Concluí curso de Design UX/UI
 -  🖥️Desenvolvendo projetos..
   
   <div>
